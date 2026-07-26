@@ -54,3 +54,5 @@ apps/api/dist/desktop/
 
 # skill installer output (npx skills add)
 .agents/
+**/nohup.out
+.model/nohup.out
