@@ -1,3 +1,8 @@
+# GGUF 模型檔案（體積龐大，不納入版本控制；腳本仍可追蹤）
+.model/*.gguf
+.model/*.bin
+.models/
+
 # Python
 __pycache__/
 *.py[cod]
@@ -7,7 +12,8 @@ venv/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
-
+**/*.gguf
+**/*.bin
 # Local application and engine data
 .data/
 .sag/

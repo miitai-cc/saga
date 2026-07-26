@@ -2,7 +2,7 @@
   <img src="docs/assets/readme/zleap-readme-header.png" alt="Zleap 与宇航员" width="294" />
 </p>
 
-<h1 align="center">SAG</h1>
+<h1 align="center">saga</h1>
 
 <p align="center">
   <a href="README.md">English</a> · <strong>简体中文</strong>

@@ -2,10 +2,10 @@
   <img src="docs/assets/readme/zleap-readme-header.png" alt="Zleap and astronaut" width="294" />
 </p>
 
-<h1 align="center">SAG</h1>
+<h1 align="center">saga</h1>
 
 <p align="center">
-  <strong>English</strong> · <a href="README-CN.md">简体中文</a>
+  <strong>English</strong> · <a href="README.zh.md">简体中文</a>· <a href="README.zh-TW.md">繁體中文</a>
 </p>
 
 <p align="center">
